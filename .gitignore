@@ -1,0 +1,10 @@
+images/*
+images_old/*
+*.mp4
+*.zip
+dataset_cnn/*
+cropped/*
+**/*.jpg
+**/*.mp4
+**/*.avi
+model/EffecientNetB3.h5

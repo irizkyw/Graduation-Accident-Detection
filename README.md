@@ -1,7 +1,7 @@
 
 # Real-Time Vehicle Damage Classification Based on Accident Detection From CCTV Footage Using Two-Stage Approach
 
-## Project Overview
+### Project Overview
 
 This project presents a **two-stage approach** for **real-time vehicle damage classification** from CCTV footage. It integrates **accident detection** and **damage severity classification** using **YOLOv8** for accident detection and a **Convolutional Neural Network (CNN)** for damage severity analysis.
 
@@ -9,7 +9,7 @@ This project presents a **two-stage approach** for **real-time vehicle damage cl
   <img src="https://github.com/irizkyw/Graduation-Accident-Detection/blob/main/assets/demo-gif.gif" alt="Demo">
 </p>
 
-## Key Features
+### Key Features
 
 - **Real-time accident detection** from CCTV footage.
 - **Vehicle damage classification** based on severity (minor, moderate, severe).
@@ -18,7 +18,7 @@ This project presents a **two-stage approach** for **real-time vehicle damage cl
   2. **Damage Severity Classification** using Convolutional Neural Network (CNN).
 - Efficient processing and deployment for real-time applications.
 
-## Technologies Used
+### Technologies Used
 
 - **YOLOv8**: For real-time object detection, particularly focused on identifying vehicles involved in accidents.
 - **Convolutional Neural Networks (CNN)**: For classifying vehicle damage severity.
@@ -26,14 +26,14 @@ This project presents a **two-stage approach** for **real-time vehicle damage cl
 - **OpenCV**: For video processing and frame extraction.
 - **TensorFlow/PyTorch**: For model development and training.
 
-## Library Versions
+### Library Versions
 
 - **ultralytics**: 8.3.36
 - **torchvision**: 0.20.1+cu124
 - **tensorflow**: 2.15.0
 - **opencv-python**: 4.10.0.84
 
-## Installation
+### Installation
 
 1. Clone the repository:
 
@@ -49,7 +49,7 @@ This project presents a **two-stage approach** for **real-time vehicle damage cl
     conda activate vehicle_damage_env
     ```
 
-## Usage
+### Usage
 
 Run the integrated system combining both stages (accident detection and damage classification) with the following command:
 
@@ -69,7 +69,7 @@ python main.py --model_type="MobileNetV2" --classifier_path="model\MobileNetV2.h
 - `--model_type`: Choose the classifier model type (`MobileNetV2` or `EfficientNetB0`, default: `EfficientNetB0`).
 - `--classifier_path`: Path to the classifier model file.
 
-## Pre-trained Models
+### Pre-trained Models
 
 Download the pre-trained YOLOv8 model for accident detection and the CNN model for damage classification from the `models/` directory.
 

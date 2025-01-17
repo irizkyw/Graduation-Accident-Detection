@@ -4,7 +4,6 @@ images_old/*
 *.zip
 dataset_cnn/*
 cropped/*
-**/*.jpg
 **/*.mp4
 **/*.avi
 model/EffecientNetB3.h5

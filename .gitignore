@@ -8,3 +8,5 @@ cropped/*
 **/*.mp4
 **/*.avi
 model/EffecientNetB3.h5
+run_atcs/*
+analyst/detection_yolo/datasets/Accident-Detection-Tugas-Akhir-50

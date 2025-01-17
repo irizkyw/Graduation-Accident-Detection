@@ -86,4 +86,4 @@ Download the pre-trained YOLOv8 model for accident detection and the CNN model f
 
 ## License
 
-This project is licensed under the MIT License.
+This project and dataset is licensed.

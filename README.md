@@ -3,7 +3,7 @@
 
 ### Project Overview
 
-This project presents a **two-stage approach** for **real-time vehicle damage classification** from CCTV footage. It integrates **accident detection** and **damage classification** using **YOLOv8** for accident detection and a **Convolutional Neural Network (CNN)** for damage severity analysis.
+This project presents a **two-stage approach** for **real-time vehicle damage classification** from CCTV footage. It integrates **accident detection** and **damage classification** using **YOLOv8** for accident detection and a **Convolutional Neural Network (CNN)** for damage classification.
 
 <p align="center">
   <img src="https://github.com/irizkyw/Graduation-Accident-Detection/blob/main/assets/demo-gif.gif" alt="Demo">
@@ -20,7 +20,7 @@ This project presents a **two-stage approach** for **real-time vehicle damage cl
 ### Technologies Used
 
 - **YOLOv8**: For real-time object detection, particularly focused on identifying vehicles involved in accidents.
-- **Convolutional Neural Networks (CNN)**: For classifying vehicle damage severity.
+- **Convolutional Neural Networks (CNN)**: For classifying vehicle damage.
 - **Python**: The primary programming language.
 - **OpenCV**: For video processing and frame extraction.
 - **TensorFlow/PyTorch**: For model development and training.

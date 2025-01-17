@@ -47,7 +47,6 @@ This project presents a **two-stage approach** for **real-time vehicle damage cl
     ```bash
     conda create --name vehicle_damage_env python=3.9.19
     conda activate vehicle_damage_env
-    pip install -r requirements.txt
     ```
 
 ## Usage

@@ -32,6 +32,9 @@ This project presents a **two-stage approach** for **real-time vehicle damage cl
 - **tensorflow**: 2.15.0
 - **opencv-python**: 4.10.0.84
 
+### Dataset
+
+You can contribute to improving the scalability and accuracy of the model by sharing relevant datasets. Any dataset related to vehicle accidents, damage severity, or vehicle images can help enhance the performance and robustness of the system. To contribute, please upload your dataset to the [assets folder](https://github.com/irizkyw/Graduation-Accident-Detection/tree/main/assets), or feel free to contact us for further collaboration and dataset sharing.
 ### Installation
 
 1. Clone the repository:

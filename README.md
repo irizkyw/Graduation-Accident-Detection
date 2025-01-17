@@ -16,7 +16,6 @@ This project presents a **two-stage approach** for **real-time vehicle damage cl
 - **Two-stage approach**:
   1. **Accident Detection** using YOLOv8.
   2. **Damage Classification** using Convolutional Neural Network (CNN).
-- Efficient processing and deployment for real-time applications.
 
 ### Technologies Used
 

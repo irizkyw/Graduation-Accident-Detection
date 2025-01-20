@@ -86,13 +86,10 @@ Download the pre-trained YOLOv8 model for accident detection and the CNN model f
 4. Push to your branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
 
-## Star
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX1doVTF5Vjd3cjd0YnNTY09XVmpxZTZMMDBVeTdlZTBkeTRHTA==#irizkyw/Graduation-Accident-Detection&Date" frameBorder="0"></iframe>
-
 ## License
 This project and dataset is licensed.
 
-Citation
+## Citation
 If you find our model/code/paper helpful, please consider citing our papers 📝 and staring us ⭐️！
 ```bib
 coming soon!

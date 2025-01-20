@@ -90,7 +90,7 @@ Download the pre-trained YOLOv8 model for accident detection and the CNN model f
 This project and dataset is licensed.
 
 ## Citation
-If you find our model/code/paper helpful, please consider citing our papers 📝 and staring us ⭐️！
+If you find our dataset/model/code/paper helpful, please consider citing our papers 📝 and staring us ⭐️！
 ```bib
 coming soon!
 ```

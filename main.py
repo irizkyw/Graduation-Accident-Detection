@@ -30,12 +30,12 @@ if __name__ == "__main__":
 
     classifier_config = ClassifierConfig(
         model_type=args.model_type,
-        classifier_path=args.classifier_path if args.classifier_path else ('model/EfficientNetB0.h5' if args.model_type == 'EfficientNetB0' else 'model/MobileNetV2.h5')
+        classifier_path=args.classifier_path if args.classifier_path else ('models/cnn/EfficientNetB0.h5' if args.model_type == 'EfficientNetB0' else 'models/cnn/EfficientNetB0.h5')
     )
 
 
     detection_config = DetectionConfig(
-        model_path='runs/detect/04122024/best.pt',
+        model_path='models/yolo/best.pt',
         threshold_conf=args.threshold_conf,
         valid_classes=args.valid_classes,
         nms_threshold=args.nms_threshold

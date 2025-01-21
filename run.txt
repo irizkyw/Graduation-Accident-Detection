@@ -1,3 +1,3 @@
-python main.py --model_type="EfficientNetB0" --classifier_path="model\EfficientNetB0.h5" --video="assets\videos\Testing Video.ts"
+python main.py --model_type="EfficientNetB0" --classifier_path="models\cnn\MobileNetV2.h5" --video="assets\videos\Testing Video.ts"
 
-python main.py --model_type="MobileNetV2" --classifier_path="model\MobileNetV2.h5" --video="assets\videos\Testing Video.ts"
+python main.py --model_type="MobileNetV2" --classifier_path="models\cnn\MobileNetV2.h5" --video="assets\videos\Testing Video.ts"

@@ -86,9 +86,6 @@ Download the pre-trained YOLOv8 model for accident detection and the CNN model f
 4. Push to your branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
 
-## License
-This project and dataset is licensed.
-
 ## Citation
 If you find our dataset/model/code/paper helpful, please consider citing our papers 📝 and staring us ⭐️！
 ```bib

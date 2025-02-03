@@ -9,8 +9,6 @@ This project presents a **two-stage approach** for **real-time vehicle damage cl
   <img src="https://github.com/irizkyw/Graduation-Accident-Detection/blob/main/assets/demo-gif.gif" alt="Demo">
 </p>
 
-### Key Features
-
 - **Real-time accident detection** from CCTV footage.
 - **Vehicle damage classification** based on severity (normal, moderate, severe).
 - **Two-stage approach**:

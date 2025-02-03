@@ -87,7 +87,7 @@ Download the pre-trained YOLOv8 model for accident detection and the CNN model f
 5. Create a new Pull Request.
 
 ## Citation
-If you find our dataset/model/code/paper helpful, please consider citing our papers 📝 and staring us ⭐️！
+If you find our dataset/code/paper helpful, please consider citing our papers 📝 and staring us ⭐️！
 ```bib
 coming soon!
 ```

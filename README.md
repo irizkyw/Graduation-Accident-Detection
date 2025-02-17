@@ -1,5 +1,5 @@
 
-# Real-Time Vehicle Damage Classification Based on Accident Detection From CCTV Footage Using Two-Stage Approach
+# Real-Time Vehicle Damage Classification Based on Accident Detection from CCTV Footage Using Two-Stage Approach
 
 ### Project Overview
 

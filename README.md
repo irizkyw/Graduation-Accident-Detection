@@ -97,6 +97,17 @@ ADDRESS="Bandung, Indonesia",
 DAYS=2,
 MONTH=feb,
 YEAR=2025,
-ABSTRACT="Traffic accidents are a significant global issue, causing injuries, property damage, and traffic congestion, which often delay emergency responses. These challenges highlight the need for more efficient and effective real-time traffic management systems that can improve safety, reduce response times, and improve overall traffic flow. This study proposes a two-stage approach using CCTV footage to enable automatic accident detection and vehicle damage classification. In the first stage, the YOLOv8 model is used for real-time accident detection, achieving a mean Average Precision (mAP) of 0.84, indicating its high accuracy in identifying accidents. The second stage incorporates the EfficientNetB0 model to classify vehicle damage into three categories: normal, moderate, and severe, with an overall accuracy of 0.76, while MobileNetV2 achieves an accuracy of 0.7. By integrating these models, the system demonstrates significant potential for accident detection and vehicle damage classification, thereby contributing to a smarter traffic monitoring system, thereby improving emergency response services for evacuation."
+ABSTRACT="Traffic accidents are a significant global issue, causing injuries,
+property damage, and traffic congestion, which often delay emergency responses.
+These challenges highlight the need for more efficient and effective real-time traffic
+management systems that can improve safety, reduce response times, and improve overall traffic flow.
+This study proposes a two-stage approach using CCTV footage to enable automatic accident detection
+and vehicle damage classification. In the first stage, the YOLOv8 model is used for real-time
+accident detection, achieving a mean Average Precision (mAP) of 0.84, indicating its high accuracy
+in identifying accidents. The second stage incorporates the EfficientNetB0 model to classify
+vehicle damage into three categories: normal, moderate, and severe, with an overall accuracy of 0.76,
+while MobileNetV2 achieves an accuracy of 0.7. By integrating these models, the system demonstrates
+significant potential for accident detection and vehicle damage classification, thereby contributing
+to a smarter traffic monitoring system, thereby improving emergency response services for evacuation."
 }
 ```

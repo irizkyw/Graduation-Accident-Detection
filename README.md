@@ -89,7 +89,7 @@ If you find our dataset/code/paper helpful, please consider citing our papers ðŸ
 ```bibtext
 @INPROCEEDINGS{Wahy2502:Real,
 AUTHOR="Ichwan Rizky Wahyudin and Ema Rachmawati",
-TITLE="{Real-Time} Vehicle Damage Classification Based on Accident Detection From
+TITLE="{Real-Time} Vehicle Damage Classification Based on Accident Detection from
 {CCTV} Footage Using {Two-Stage} Approach",
 BOOKTITLE="2025 International Conference on Advancement in Data Science, E-learning
 and Information System (ICADEIS) (ICADEIS 2025)",

@@ -86,7 +86,7 @@ Download the pre-trained YOLOv8 model for accident detection and the CNN model f
 
 ## Citation
 If you find our dataset/code/paper helpful, please consider citing our papers 📝 and staring us ⭐️！
-```bib
+```bibtext
 @INPROCEEDINGS{Wahy2502:Real,
 AUTHOR="Ichwan Rizky Wahyudin and Ema Rachmawati",
 TITLE="{Real-Time} Vehicle Damage Classification Based on Accident Detection From

@@ -87,5 +87,16 @@ Download the pre-trained YOLOv8 model for accident detection and the CNN model f
 ## Citation
 If you find our dataset/code/paper helpful, please consider citing our papers 📝 and staring us ⭐️！
 ```bib
-coming soon!
+@INPROCEEDINGS{Wahy2502:Real,
+AUTHOR="Ichwan Rizky Wahyudin and Ema Rachmawati",
+TITLE="{Real-Time} Vehicle Damage Classification Based on Accident Detection From
+{CCTV} Footage Using {Two-Stage} Approach",
+BOOKTITLE="2025 International Conference on Advancement in Data Science, E-learning
+and Information System (ICADEIS) (ICADEIS 2025)",
+ADDRESS="Bandung, Indonesia",
+DAYS=2,
+MONTH=feb,
+YEAR=2025,
+ABSTRACT="Traffic accidents are a significant global issue, causing injuries, property damage, and traffic congestion, which often delay emergency responses. These challenges highlight the need for more efficient and effective real-time traffic management systems that can improve safety, reduce response times, and improve overall traffic flow. This study proposes a two-stage approach using CCTV footage to enable automatic accident detection and vehicle damage classification. In the first stage, the YOLOv8 model is used for real-time accident detection, achieving a mean Average Precision (mAP) of 0.84, indicating its high accuracy in identifying accidents. The second stage incorporates the EfficientNetB0 model to classify vehicle damage into three categories: normal, moderate, and severe, with an overall accuracy of 0.76, while MobileNetV2 achieves an accuracy of 0.7. By integrating these models, the system demonstrates significant potential for accident detection and vehicle damage classification, thereby contributing to a smarter traffic monitoring system, thereby improving emergency response services for evacuation."
+}
 ```

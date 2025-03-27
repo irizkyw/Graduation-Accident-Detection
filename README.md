@@ -86,6 +86,7 @@ Download the pre-trained YOLOv8 model for accident detection and the CNN model f
 
 ## Citation
 If you find our dataset/code/paper helpful, please consider citing our papers 📝 and staring us ⭐️！
+https://ieeexplore.ieee.org/document/10933378
 ```bibtext
 @INPROCEEDINGS{10933378,
   author={Wahyudin, Ichwan Rizky and Rachmawati, Ema},
